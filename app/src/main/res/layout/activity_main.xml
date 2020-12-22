@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/back_design"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:textColor="#C12323"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:gravity="center">
+
+    </TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Email"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:background="@drawable/ed_design"
+        android:padding="10dp"
+        android:id="@+id/email_login">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/pass_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/ed_design"
+        android:padding="10dp"
+        android:hint="@string/password"
+        android:inputType="numberPassword"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:autofillHints="">
+
+    </EditText>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:layout_margin="10dp"
+        android:text="@string/log_in"
+        android:background="@drawable/ed_design"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:id="@+id/button_login">
+
+    </Button>
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    </ProgressBar>
+    <TextView
+        android:id="@+id/registrationTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/don_t_have_an_account_please_registration"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp">
+
+    </TextView>
+
+
+
+
+
+</LinearLayout>

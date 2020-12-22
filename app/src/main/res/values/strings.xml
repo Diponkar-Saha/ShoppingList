@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingCost</string>
+    <string name="don_t_have_an_account_please_registration">Don\'t have an account?Please Registration.</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="save">SAVE</string>
+    <string name="note">Note :</string>
+    <string name="add_shopping_list">Add Shopping List</string>
+</resources>

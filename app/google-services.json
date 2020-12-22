@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1003496810184",
+    "project_id": "shoppingnote-ecf56",
+    "storage_bucket": "shoppingnote-ecf56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003496810184:android:023ce186f392c7acb9e7fd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjrKt-Fz3p5mj2Q_hZYzi43isf8k7HPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003496810184:android:7e39f6c3bf13c2f5b9e7fd",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjrKt-Fz3p5mj2Q_hZYzi43isf8k7HPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003496810184:android:a29a744111c13b62b9e7fd",
+        "android_client_info": {
+          "package_name": "com.example.shoppingnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjrKt-Fz3p5mj2Q_hZYzi43isf8k7HPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003496810184-enf9nv6j7s143m93ocvb84jn47fftmm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
